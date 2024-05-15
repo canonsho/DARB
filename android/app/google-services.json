@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956115356266",
+    "project_id": "darb-59144",
+    "storage_bucket": "darb-59144.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956115356266:android:6f70842c724d3d92431813",
+        "android_client_info": {
+          "package_name": "com.mycompany.darb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqhqbBvSmie3W7bu5kAtqPMtYbnQvcync"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
